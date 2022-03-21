@@ -1,6 +1,3 @@
 <?php
-//Route::console("command","main@index");
 
-Console::command('test', function(){
-	//dd(app('path.public'));
-});
+//Route::console("command","main@index");
