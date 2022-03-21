@@ -1,5 +1,5 @@
 <?php
 
-require_once(__DIR__.'/../engine/init.php');
+require_once(__DIR__.'/../vendor/autoload.php');
 
 new SME\Core\App;

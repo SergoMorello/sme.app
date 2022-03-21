@@ -1,0 +1,15 @@
+{
+    "name": "sme/app",
+    "description": "simple mvc app",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sme\\App\\": "src/"
+        }
+    },
+    "require": {
+		"php": "^7.0.0",
+		"sme/framework": "^0.0.1"
+	}
+}
