@@ -1,0 +1,5 @@
+<?php
+
+require_once(__DIR__ .'/engine/init.php');
+
+return (new SME\Core\App(false, true))();
