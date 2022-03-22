@@ -1,6 +1,7 @@
 .*
-!.gitignore
 .env
+!.gitignore
+!.env.example
 !storage/.local
 !storage/.cache
 !storage/.cache/compiler
