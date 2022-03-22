@@ -3,12 +3,13 @@
   <span>SME</span>
 </h1>
 
-##	simple mvc engine
+##	simple mvc framework
 
 ###	Это нечто похожее на laravel но намного быстрее и проще
 
 ### Внимание, документация является устаревшей, в ближайшее время постараюсь переписать
 
+[Установка](#install)  
 [Первый запуск](#first)  
 
 [Route](#route)  
@@ -22,6 +23,14 @@
 [Exceptions](#exceptions)  
 [Log](#log)  
 [Console](#console)  
+
+###
+
+<h3 id="install">Установка:</h3>
+
+```
+composer create-project sme/app my_project
+```
 
 ###
 

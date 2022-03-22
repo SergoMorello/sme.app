@@ -3,9 +3,9 @@ namespace App\Models;
 
 use SME\Core\Model\Model;
 
-class Test2 extends Model {
+class Def extends Model {
 
 	// Если нужно переназначить имя таблицы
-	protected $table = 'files';
+	// protected $table = 'Def';
 
 }
